@@ -1,12 +1,12 @@
 * Fall 2022 - Lab 07
 
-* Last name:
+* Last name: Vostrikov
 
-* First name:
+* First name: Vladislav
 
-* GitHub username:
+* GitHub username: vvostrikov10
 
-* Notes:
+* Notes: make clean also removes the fixedFile.txt for ease of testing.
 
 
   
