@@ -6,7 +6,7 @@
 
 * GitHub username: vvostrikov10
 
-* Notes: make clean also removes the fixedFile.txt for ease of testing.
+* Notes: make clean also removes the fixedFile.txt for ease of testing. Change for pull lab.
 
 
   
